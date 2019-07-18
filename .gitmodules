@@ -5,3 +5,7 @@
 	path = diegofreijo.github.io
 	url = git@github.com:diegofreijo/diegofreijo.github.io.git
 	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:diegofreijo/diegofreijo.github.io.git
+	branch = master

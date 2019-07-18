@@ -2,3 +2,14 @@ baseURL = "https://diegofreijo.github.io/"
 languageCode = "en-us"
 title = "Giga test"
 theme = "m10c"
+
+[params]
+	author = "Diego Freijo"
+	description = "Security Researcher"
+	avatar = "/avatar.png"
+	[[params.social]]
+		name = "github"
+		url = "https://github.com/diegofreijo"
+	[[params.social]]
+		name = "twitter"
+		url = "https://twitter.com/diegofreijo"
